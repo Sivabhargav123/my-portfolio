@@ -9,7 +9,7 @@ const Projects = () => {
         <div className="card">
           <h3>PG@eGRADTutor</h3>
           <p style={{ marginTop: "10px", color: "#94a3b8" }}>
-            React game with CI/CD integration.
+            Modern responsive PG courses and provide to buy in the online payment method.
           </p>
           <a href="#" className="btn btn-outline" style={{ marginTop: "15px" }}>
             <strong><a style={{textDecoration:"none", color: "#94a3b8" }} href="https://onlinepg.egradtutor.in/"> Project Link</a></strong>
@@ -19,7 +19,7 @@ const Projects = () => {
         <div className="card">
           <h3>UG@eGRADTutor</h3>
           <p style={{ marginTop: "10px", color: "#94a3b8" }}>
-            Modern responsive portfolio using React.
+            Modern responsive UG courses and provide to buy in the online payment method.
           </p>
           <a href="#" className="btn btn-outline" style={{ marginTop: "15px" }}>
             <strong><a style={{textDecoration:"none" ,color: "#94a3b8" }} href="https://onlineug.egradtutor.in/"> Project Link</a></strong>
