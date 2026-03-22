@@ -10,29 +10,29 @@ const Experience = () => {
         <div className="experience-card">
 
           <div className="exp-header">
-            <h3>Web Developer — eGRADTutor</h3>
-            <span>Mar 2024 – Feb 2025</span>
+            <h3>Software Engineer — Iglobal consulting Pvt Ltd</h3>
+            <span>Aug 2023 – Present</span>
           </div>
 
-          <h4>UG & PG Online Test Series Platform</h4>
+          <h4>Smart Recruiter Apps</h4>
+          <p>Technologies: React, TypeScript, Redux, Material UI, Formik, Axios, XLSX, HTML, CSS</p>
+          <p>Description: Enhance AI/ML-powered recruitment tools, including Rolemapper, Talk to Resume, and Joining Probability tools, enhancing hiring processes with data visualization and automated workflows.</p>
           <ul>
-            <li>Owned end-to-end development and optimization of a large-scale Online Test Series (OTS) platform used by multiple institutes.</li>
-            <li>Designed and implemented multi-tenant architecture enabling institute-level data isolation and custom domain support.</li>
-            <li>Improved page load times and API performance using indexing, query optimization, and efficient React state management.</li>
-            <li>Integrated Azure Key Vault with Managed Identity in Node.js for secure secret management.</li>
-            <li>Developed reusable React components with responsive UI across devices.</li>
-            <li>Optimized test timer performance using React Context API to minimize re-renders.</li>
-            <li>UG@eGRADTutor<strong><a href="https://onlineug.egradtutor.in/"> Project Link</a></strong></li>
+            <li>Built the Rolemapper Tool to extract relevant job roles from descriptions using LLM APIs, featuring a paginated DataGrid with export-to-Excel and history tracking.</li>
+            <li>Created the Talk to Resume Tool for uploading and querying multiple resumes, displaying results in a DataGrid with history tracking and file upload validation.</li>
+            <li>Expanded the Joining Probability Tool to validate job application responses, calculate joining probability scores, and automate email invitations, with results displayed interactively.</li>
+            <li>Implemented the Screening and Shortlisting Tool to extract and validate key job description details against resumes, calculating match scores and displaying results in detailed Data Grids.</li>
           </ul>
 
-          <h4>GATE PG Online Test Series</h4>
+          <h4>Online Test Series (OTS) Portal</h4>
+          <p>Technologies: React, Redux, JavaScript, Context API, CSS, Postman</p>
+          <p>Description: Enhanced a multi-tenant architecture enabling institute-level data isolation, custom domain support and optimization of a large-scale Online Test Series used by multiple users.</p>
           <ul>
-            <li>Implemented dynamic optional departments matching official GATE interface.</li>
-            <li>Enabled configurable admin workflows for optional sections.</li>
-            <li>Built resume-test functionality for continuing assessments.</li>
-            <li>Developed scientific calculator using regex-based expression parsing.</li>
-            <li>Wrote comprehensive test cases ensuring reliability during concurrent logins.</li>
-            <li>PG@eGRADTutor <strong><a href="https://onlinepg.egradtutor.in/"> Project Link</a></strong></li>
+            <li>Conducted requirements gathering to define design, development, and testing workflows.</li>
+            <li>Developed reusable React components and ensured consistent, responsive UI across desktop and mobile devices.</li>
+            <li>Created reusable components and implemented dynamic form validation using Redux for secure data handling and key retrieval.</li>
+            <li>Collaborated with testing team to troubleshoot, debug, and resolve issues, ensuring a high-quality user experience.</li>
+            <li>Enabled admins to create and manage tests with or without optional sections through configurable workflows.</li>
           </ul>
 
           <h4>Platform Performance & Admin Tooling</h4>

@@ -1,6 +1,6 @@
 import { FaLinkedin, FaEnvelope } from "react-icons/fa";
 import "./Hero.css";
-import profile from '../assets/profile.webp'
+import profile from '../assets/profilepic.png'
 
 const Hero = () => {
   return (
@@ -17,7 +17,8 @@ const Hero = () => {
         </h1>
 
         <p className="hero-title">
-          Full Stack Developer (React & Node.js)
+          {/* Full Stack Developer (React & Node.js) */}
+          Software Engineer | Web Developer
         </p>
 
         <p className="hero-description">

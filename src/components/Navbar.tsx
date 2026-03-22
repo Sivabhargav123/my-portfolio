@@ -1,7 +1,7 @@
 import  { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import "./Navbar.css";
-import profile from '../assets/profile.webp'
+import profile from '../assets/profilepic.png'
 
 const Navbar = () => {
   const [open, setOpen] = useState(false);

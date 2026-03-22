@@ -6,14 +6,10 @@ const Education = () => {
       <h2 className="section-title">Education & Certifications</h2>
 
       <div className="container education-wrapper">
-
+       
         <div className="education-card">
-          <h3>MBA (Finance and HR)</h3>
-          <span>Narayana Institute of Management & Sciences, Tadipatri</span>
-        </div>
-
-        <div className="education-card">
-          <h3>B.Com (Computer Applications)</h3>
+          <h3>Bachelor's Degree</h3>
+          <span>B.Com (Computer Applications)</span>
           <span>Sri Sai Sidhartha Degree College, Anantapur</span>
         </div>
 

@@ -8,6 +8,8 @@
 
 .education-card {
   background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
   padding: 20px;
   border-radius: 10px;
   transition: 0.3s ease;
