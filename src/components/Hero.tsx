@@ -1,6 +1,6 @@
 import { FaLinkedin, FaEnvelope } from "react-icons/fa";
 import "./Hero.css";
-import profile from '../assets/IMG_20220925_174241.jpg'
+import profile from '../assets/Screenshot 2026-04-03 141822.png'
 
 const Hero = () => {
   return (
